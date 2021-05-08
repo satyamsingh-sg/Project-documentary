@@ -17,7 +17,6 @@
 * [Hospitals-Registeration](#Hospitals-Registeration)
 * [Doctors-Profile](#Doctors-Profile)
 * [Hospitals-Profile](#Hospitals-Profile)
-* [How-to-update-Profiles](#How-to-update-Profiles)
 * [Contributers](#Contributers)
 
 ## Project-Installation
@@ -67,15 +66,49 @@ Hence the *installation* and setup of the project is *done completely*.
 
 
 ## Hospitals-Registeration
+### It is hospital registeration form ,hospital will register here
+
+
 ![](/img4.png)
-![](/Hospital Registration - Google Chrome 2021-05-06 22-18-53 (online-video-cutter.com).gif)
-## Doctor-Profile
+
+
+
+### It is demo how to register here 
+
+
+
+![](/reg.gif)
+
+## Doctors-Profile
+### It is doctor profile , doctor will view profile and other how register in website they can view doctor profile useing search bar 
+
+
 
 ![](/img3.png)
+
+
+
+### It is doctor profile demo 
+
+
 ![](/doc1.gif)
 
-## Hospital-Profile
+
+## Hospitals-Profile
+### It is Hospitals profile , Hospitals will view profile and other how register in website they can view Hospitals profile useing search bar
+
+ 
 ![](/img2.png)
+
+
+### It is Hospitals profile demo
+
+
 ![](/host1.gif)
-## How-to-update-Profile
+
+
 ## Contributers
+*  Hospitals-Registeration  frontend  part
+*  Hospitals-Profile  frontend and backend part
+*  Doctor-Profile  frontend and backend part
+
