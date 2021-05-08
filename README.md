@@ -140,4 +140,4 @@ Hence the *installation* and setup of the project is *done completely*.
 *  Hospitals-Registeration  frontend  part
 *  Hospitals-Profile  frontend and backend part
 *  Doctor-Profile  frontend and backend part
-
+*  Update hospital and profile part
