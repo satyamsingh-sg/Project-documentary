@@ -125,8 +125,17 @@ Hence the *installation* and setup of the project is *done completely*.
 ![](/host1.gif)
  * According to rating and review we can judge the service
 ## How-to-update-profile
+## hospital and Doctor can update their profile
+ * From profile page, go to update button.
+ * Check use is doctor then update his profile and if it is user they can not update
+ * Check use is Hospital then update his profile and if it is user they can not update
 ![](/img5.png)
-![](/doc(1).gif)
+* update Doctor and Hospital name
+* update Profile photo
+* update Specicalistion , Exprience
+### It is  update  Demo
+![](/update.gif)
+* After update profile redirect in profile and get massage to update profile 
 ## Contributers
 *  Hospitals-Registeration  frontend  part
 *  Hospitals-Profile  frontend and backend part
