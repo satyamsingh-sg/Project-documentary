@@ -72,6 +72,6 @@ Hence the *installation* and setup of the project is *done completely*.
 ![](/doc1.png)
 
 ## Hospital-Profile
-![](/host1.png)
+![](/host1.gif)
 ## How-to-update-Profile
 ## Contributers
