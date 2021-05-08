@@ -80,7 +80,7 @@ Hence the *installation* and setup of the project is *done completely*.
 ![](/reg.gif)
 
 ## Doctors-Profile
-### It is doctor profile , doctor will view profile and other how register in website they can view doctor profile useing search bar 
+### It is doctor profile , doctor can view profile and other how register in website they can view doctor profile using search bar 
 
 
 
@@ -95,7 +95,7 @@ Hence the *installation* and setup of the project is *done completely*.
 
 
 ## Hospitals-Profile
-### It is Hospitals profile , Hospitals will view profile and other how register in website they can view Hospitals profile useing search bar
+### It is Hospitals profile , Hospitals can view profile and other how register in website they can view Hospitals profile using search bar
 
  
 ![](/img2.png)
