@@ -125,6 +125,8 @@ Hence the *installation* and setup of the project is *done completely*.
 ![](/host1.gif)
  * According to rating and review we can judge the service
 ## How-to-update-profile
+![](/img5.png)
+![](/doc(1).gif)
 ## Contributers
 *  Hospitals-Registeration  frontend  part
 *  Hospitals-Profile  frontend and backend part
