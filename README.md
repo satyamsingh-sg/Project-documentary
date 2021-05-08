@@ -68,10 +68,14 @@ Hence the *installation* and setup of the project is *done completely*.
 
 ## Hospitals-Registeration
 ![](/img4.png)
+![](/Hospital Registration - Google Chrome 2021-05-06 22-18-53 (online-video-cutter.com).gif)
 ## Doctor-Profile
-![](/doc1.png)
+
+![](/img3.png)
+![](/doc1.gif)
 
 ## Hospital-Profile
+![](/img2.png)
 ![](/host1.gif)
 ## How-to-update-Profile
 ## Contributers
