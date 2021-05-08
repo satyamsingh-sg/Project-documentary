@@ -17,7 +17,7 @@
 * [Hospitals-Registeration](#Hospitals-Registeration)
 * [Doctors-Profile](#Doctors-Profile)
 * [Hospitals-Profile](#Hospitals-Profile)
-* [How-to-update-profile](How-to-update-profile)
+* [How-to-update-profile](#How-to-update-profile)
 * [Contributers](#Contributers)
 
 ## Project-Installation
